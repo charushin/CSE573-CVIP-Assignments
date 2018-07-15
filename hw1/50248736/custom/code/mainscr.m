@@ -1,0 +1,1 @@
+guessImage('../data/art_gallery/sun_avzfaztijpafmelh.jpg');
