@@ -24,6 +24,8 @@ This repository contains all of my implementations for the 573 course assignment
 • Compared the accuracy of the methods using epipoles and epipolar lines.
 • From the point pairs and the given camera matrices the camera center was identified
 
-
-
-
+## Homework 4
+### Digit Classification using Autoencoders
+•	Studied the working and performance of Sparse Autoencoders using MATLAB’s Tutorial on Autoencoders to classify synthetically generated images of digits.
+•	Tuned hyperparameters to improve the performance of the autoencoder classification network.
+•	Used the network to classify images from MNIST Handwritten images database and commented on generalization
